@@ -1,0 +1,36 @@
+STRINGTABLE
+{
+    IDS_MENU_ABOUT  "\u5173\u4e8e";
+    IDS_MENU_BOGHMA "Boghma\u793e\u533a";
+    IDS_MENU_MORE "\u83b7\u53d6\u66f4\u591a\u5de5\u5177";
+    IDS_MENU_HELP "\u5e2e\u52a9";
+    IDS_MENU_ONLINEHELP "\u5728\u7ebf\u5e2e\u52a9";
+
+    IDS_Email "\u6536\u4ef6\u90ae\u7bb1 : ";
+    IDS_Save "\u4fdd\u5b58\u90ae\u7bb1";
+    IDS_Clear "\u6e05\u7a7a\u90ae\u7bb1";
+    IDS_Spy "\u5f00\u59cb\u76d1\u6d4b";
+    IDS_Stop "\u9000\u51fa\u76d1\u6d4b";
+    IDS_INIT "\u5237\u65b0\u521d\u59cb\u72b6\u6001";
+    IDS_ERROR_MESSAGE "\u6e32\u67d3\u9519\u8bef\u65f6\u901a\u77e5";
+
+    IDS_email_head "\u606d\u559c ! \u6e32\u67d3\u961f\u5217\u4e2d\u7684\u6e32\u67d3\u5df2\u7ecf\u5168\u90e8\u5b8c\u6210";
+    IDS_email_end "\u002e\u002e\RQSpyer @DunHouGo\u002enwww.boghma.com";
+    IDS_email_happy "\u002e\u002e\u6ce1\u676f\u70ed\u8336 \u5f00\u5fc3\u5de5\u4f5c!";
+    IDS_email_total "\u002e==> \u76ee\u6807 : ";
+    IDS_email_error "\u002e==> \u5931\u8d25 : ";
+    IDS_email_time "\u002e==> \u6e32\u67d3\u65f6\u95f4 : ";
+
+    IDS_Question "\u6e32\u67d3\u961f\u5217\u6ca1\u6709\u5f00\u59cb\u6e32\u67d3\u002e\u000a\u662f\u5426\u8981\u73b0\u5728\u5f00\u59cb\u003f";
+    IDS_Email_hint "\u8bf7\u70b9\u51fb\u53f3\u4e0a\u89d2\u56fe\u6807\u586b\u5199\u901a\u77e5\u90ae\u7bb1";
+    IDS_AskClose "\u5173\u95ed\u4f1a\u4f7f\u6e32\u67d3\u961f\u5217\u505c\u6b62\u4e0d\u518d\u53d1\u9001\u901a\u77e5\u90ae\u4ef6\u002e\u005c\u006e\u662f\u5426\u7ee7\u7eed\u9000\u51fa\u003f";
+
+    IDS_LOG "\u72b6\u6001 : ";
+    IDS_RenderFinish "\u6e32\u67d3\u5b8c\u6210 !";
+    IDS_UserAbort "\u7528\u6237\u4e2d\u65ad !";
+    IDS_ErrorIndex "\u9519\u8bef\u961f\u5217 : ";
+    IDS_IsRendering "\u961f\u5217\u6e32\u67d3\u4e2d...";
+    IDS_INITFailed "\u521d\u59cb\u5316\u9519\u8bef !";
+
+    IDS_PLUGININFO  "\u76d1\u6d4b\u6e32\u67d3\u961f\u5217\u5e76\u5728\u5b8c\u6210\u6216\u9519\u8bef\u65f6\u63d0\u9192";
+}

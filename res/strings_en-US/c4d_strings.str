@@ -1,0 +1,36 @@
+STRINGTABLE
+{
+    IDS_MENU_ABOUT  "About";
+    IDS_MENU_BOGHMA "Boghma Community";
+    IDS_MENU_MORE "Get More Tools";
+    IDS_MENU_HELP "Help";
+    IDS_MENU_ONLINEHELP "Online Help";
+
+    IDS_Email "Email Address : ";
+    IDS_Save "Save";
+    IDS_Clear "Clear";
+    IDS_Spy "Spy";
+    IDS_Stop "Stop";
+    IDS_INIT "Init Current State";
+    IDS_ERROR_MESSAGE "Alert when render error";
+
+    IDS_email_head "Congratulations ! Your Rendering has been completed.";
+    IDS_email_end "\n\nRQSpyer @DunHouGo\n\nwww.boghma.com";
+    IDS_email_happy "\n\nHave a cup of coffee and happy rendering !";
+    IDS_email_total "\n\n==> Total : ";
+    IDS_email_error "\n\n==> Errors : ";
+    IDS_email_time "\n\n==> Render time : ";
+
+    IDS_Question "Batch renderer is NOT running.\nStart Render Queue right now?";
+    IDS_Email_hint "Please click on top right icon to confirm contact email address.";
+    IDS_AskClose "Abort the spy progress will no longer send you notification emails\n\nDo you want to quit anyway?";
+
+    IDS_LOG "Log : ";
+    IDS_RenderFinish "Render Finished !";
+    IDS_UserAbort "User Abort !";
+    IDS_ErrorIndex "Error Document : ";
+    IDS_IsRendering "Spy on rendering...";
+    IDS_INITFailed "Initialize Failed !";
+
+    IDS_PLUGININFO  "A tool to spy on Render Queue and Message when finished";
+}
